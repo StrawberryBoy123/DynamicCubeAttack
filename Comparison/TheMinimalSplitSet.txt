@@ -1,0 +1,204 @@
+
+- No.0 Round: 190; zvar: v95
+KeySetTo0: 
+
+
+- No.1 Round: 190; zvar: v77 v40
+KeySetTo0: (47 57 64 89 ), (47 64 88 89 ),
+
+
+- No.2 Round: 190; zvar: v71 v40
+KeySetTo0: (36 47 57 89 ), (39 47 57 88 ), (46 47 57 89 ), (47 50 57 89 ), (47 56 57 89 ), (47 57 58 89 ), (47 57 64 89 ), (47 57 70 89 ), (47 57 88 89 ), (47 57 89 123 ), (47 57 89 127 ), (47 58 88 89 ), (47 63 88 89 ), (47 64 88 89 ), (48 58 88 89 ), (57 58 88 89 ), 
+
+
+- No.3 Round: 190; zvar: v68 v40
+KeySetTo0: 
+
+
+- No.4 Round: 190; zvar: v67 v42
+KeySetTo0: 
+
+
+- No.5 Round: 190; zvar: v61 v55
+KeySetTo0: 
+
+
+- No.6 Round: 190; zvar: v61 v52
+KeySetTo0: (47 57 88 89 ), 
+
+
+- No.7 Round: 190; zvar: v60 v41
+KeySetTo0: (46 64 88 89 ), 
+
+
+- No.8 Round: 190; zvar: v55
+KeySetTo0: (46 47 88 89 ), 
+
+
+- No.9 Round: 190; zvar: v50
+KeySetTo0: 
+
+
+- No.10 Round: 190; zvar: v49 v41
+KeySetTo0: (46 58 88 89 ), (46 64 88 89 ), 
+
+
+- No.11 Round: 190; zvar: v44 v33
+KeySetTo0: (46 56 88 89 ), (46 58 88 89 ), (46 62 88 89 ), (46 64 88 89 ), 
+
+
+- No.12 Round: 190; zvar: v42 v27
+KeySetTo0: 
+
+
+- No.13 Round: 190; zvar: v40 v41 v77
+KeySetTo0: 
+
+- No.14 Round: 190; zvar: v40 v46 v71
+KeySetTo0: (57 64 88 89 ), 
+
+
+- No.15 Round: 190; zvar: v40 v60 v71
+KeySetTo0: 
+
+
+- No.16 Round: 190; zvar: v35 v46 v49
+KeySetTo0: (46 64 88 89 ), 
+
+
+- No.17 Round: 190; zvar: v40 v46 v49
+KeySetTo0: (58 64 88 89 ), 
+
+
+- No.18 Round: 190; zvar: v41 v46 v49
+KeySetTo0: (46 64 88 89 ), 
+
+
+- No.19 Round: 190; zvar: v45 v46 v49
+KeySetTo0: 
+
+
+- No.20 Round: 190; zvar: v46 v49 v60
+KeySetTo0: 
+
+
+- No.21 Round: 190; zvar: v46 v49 v75
+KeySetTo0: 
+
+
+- No.22 Round: 190; zvar: v35 v41 v49
+KeySetTo0: (46 88 89 ), 
+
+
+- No.23 Round: 190; zvar: v27 v41 v42
+KeySetTo0: 
+
+
+- No.24 Round: 190; zvar: v76 v42
+KeySetTo0: (46 47 48 88 ), (46 47 50 88 ), (46 47 54 88 ), (46 47 54 124 ), (46 47 56 88 ), (46 47 57 88 ), (46 47 58 88 ), (46 47 60 88 ), (46 47 63 88 ), (46 47 64 88 ), (46 47 88 89 ), (46 47 88 117 ), (46 47 88 123 ), (46 47 88 127 ), (46 51 88 89 ), (46 58 88 89 ), (46 88 89 124 ), (47 57 58 88 ), 
+
+
+- No.25 Round: 190; zvar: v72
+KeySetTo0: 
+
+
+- No.26 Round: 190; zvar: v72 v61
+KeySetTo0: 
+
+
+- No.27 Round: 190; zvar: v69 v29
+KeySetTo0: 
+
+
+- No.28 Round: 190; zvar: v68 v46
+KeySetTo0: 
+
+
+- No.29 Round: 190; zvar: v61 v32
+KeySetTo0: 
+
+
+- No.30 Round: 190; zvar: v55 v41
+KeySetTo0: (46 47 88 89 ), 
+
+
+- No.31 Round: 190; zvar: v54
+KeySetTo0: (46 47 58 88 ), (46 58 88 89 ), 
+
+
+- No.32 Round: 190; zvar: v50 v44
+KeySetTo0: (46 88 89 124 ), 
+
+
+- No.33 Round: 190; zvar: v50 v41
+KeySetTo0: 
+
+
+- No.34 Round: 190; zvar: v49 v35
+KeySetTo0: (46 47 88 89 ), (46 58 88 89 ), (47 64 88 89 ), 
+
+
+- No.35 Round: 190; zvar: v46 v28
+KeySetTo0: 
+
+
+- No.36 Round: 190; zvar: v41 v27
+KeySetTo0: 
+
+
+- No.37 Round: 190; zvar: v70 v42 v41
+KeySetTo0: (19 46 88 89 ), (40 46 88 89 ), (41 46 88 89 ), (46 50 88 89 ), (46 51 88 89 ), (46 54 88 89 ), (46 55 88 89 ), (46 57 88 89 ), (46 58 88 89 ), (46 60 88 89 ), (46 64 88 89 ), (46 67 88 89 ), (46 70 88 89 ), (46 88 89 126 ), 
+
+
+
+- No.38 Round: 190; zvar: v68 v61 v42
+KeySetTo0: 
+
+
+- No.39 Round: 190; zvar: v68 v46 v42
+KeySetTo0: 
+
+
+- No.40 Round: 190; zvar: v68 v42 v41
+KeySetTo0: (46 58 88 89 ), 
+
+
+- No.41 Round: 190; zvar: v76 v61 v41
+KeySetTo0: (46 64 88 89 ), (46 67 88 89 ), (46 88 89 124 ), (57 58 88 89 ), (58 67 88 89 ), 
+
+
+- No.42 Round: 190; zvar: v61 v60 v46
+KeySetTo0: 
+
+
+- No.43 Round: 190; zvar: v61 v50 v44
+KeySetTo0: 
+
+
+- No.44 Round: 190; zvar: v61 v46 v45
+KeySetTo0: (47 57 88 89 ), 
+
+
+- No.45 Round: 190; zvar: v60 v46 v45
+KeySetTo0: 
+
+
+- No.46 Round: 190; zvar: v51 v42 v41
+KeySetTo0: (40 46 88 89 ), (46 64 88 89 ), (46 88 89 124 ), 
+
+
+- No.47 Round: 190; zvar: v50 v44 v41
+KeySetTo0: 
+
+
+- No.48 Round: 190; zvar: v71 v49 v35
+KeySetTo0: (46 64 88 89 ), 
+
+
+- No.49 Round: 190; zvar: v75 v46 v42
+KeySetTo0: 
+
+
+- No.50 Round: 190; zvar: v76 v41 v40
+KeySetTo0: 
+
